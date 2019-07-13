@@ -3,7 +3,7 @@
 
 
 ## Game Description:
-The min goal of this game proijec is to learn OOP in java. This Game has three levels. Eeach level has differnt baclground and chalenges with energy bar.  <br/>
+The main goal of this game project is to learn OOP in java. This Game has three levels. Eeach level has differnt background and chalenges with energy bar.  <br/>
 
 ### To Run The Game:
 1. Run "application.jar" <br/>
