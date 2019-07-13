@@ -2,10 +2,10 @@
 ## Author: Ermias Haile 
 
 
-## Game Description:
+#### Game Description:
 The main goal of this game project is to learn OOP in java. This Game has three levels. Eeach level has differnt background and chalenges with energy bar.  <br/>
 
-### To Run The Game:
+#### To Run The Game:
 1. Run "application.jar" <br/>
 
 
